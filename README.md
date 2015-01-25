@@ -1,4 +1,4 @@
 # datasciencecoursera
 for an assignment
-touch HelloWorld.md
+# touch HelloWorld.md
 ## This is a markdown file
